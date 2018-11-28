@@ -10,4 +10,4 @@ Instructions:
 
 *Tested on Moto X4 with lineage 15.1 Official
 
-Thanks to ᴇʀғᴀɴ and osm0sis (twrp-keep)
+Thanks to erfanoabdi and osm0sis (twrp-keep)

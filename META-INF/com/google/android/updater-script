@@ -1,7 +1,7 @@
 ui_print("********************************");
 ui_print("   TWRP A/B Keep Addon.d v2     ");
 ui_print("  by filipepferraz              ");
-ui_print(" credits to ᴇʀғᴀɴ                ");
+ui_print(" credits to erfanoabdi          ");
 ui_print("            osm0sis (twrp-keep) ");
 ui_print("********************************");
 ui_print(" ");
