@@ -16,8 +16,8 @@ mount("ext4", "EMMC", "/dev/block/bootdevice/by-name/system", "/system");
 
 ui_print("Extracting files...");
 
-package_extract_dir("system/addon.d", "/system/addon.d");
-set_perm(0, 0, 0755, "/system/addon.d/90-twrp-keep.sh");
+package_extract_dir("system/addon.d", "/system/system/addon.d");
+set_perm(0, 0, 0755, "/system/system/addon.d/90-twrp-keep.sh");
 
 unmount("/system");
 
